@@ -25,5 +25,5 @@
 # 金句中文，如果为空，默认会读取金山的每日金句
 "note_ch": "中秋安康",
 # 金句英文
-"note_en": "Mid Autumn Festival(Ankang)"
+"note_en": "zhongqiuankang"
 }
